@@ -1,6 +1,6 @@
 Send ntfy alerts from Godot.
 
-Download and install the ntfy app.
+Download and install the ntfy app on your mobile device.
 
 Subscribe to your own 'topic' in the ntfy app.
 
